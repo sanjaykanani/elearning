@@ -11,14 +11,15 @@ Steps to execute the web application:
 4. Open the "elearning" project in Visual Studio 2013 by going to File->Open->Website->Locate your "elearning" project directory.
 5. Build and run the project to navigate to the Home page of this website.
 
-1. Chapter Page
+Screenshots
+a. Chapter Page
 ![elearning1](https://cloud.githubusercontent.com/assets/11856540/16218776/dabe399c-374e-11e6-955f-1a9f6a106d70.JPG)
 
-2. Quiz page
+b. Quiz page
 ![elearning2](https://cloud.githubusercontent.com/assets/11856540/16218777/dac370d8-374e-11e6-8a7a-723780b8ef40.JPG)
 
-3. Results with View answer option.
+c. Results with View answer option.
 ![elearning3](https://cloud.githubusercontent.com/assets/11856540/16218774/dabdd268-374e-11e6-8e74-cef0cdf07492.JPG)
 
-4. Correct answers
+d. Correct answers
 ![elearning4](https://cloud.githubusercontent.com/assets/11856540/16218775/dabe0ab2-374e-11e6-98cd-42dbe6cf4638.JPG)
