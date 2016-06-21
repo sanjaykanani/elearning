@@ -12,6 +12,7 @@ Steps to execute the web application:
 5. Build and run the project to navigate to the Home page of this website.
 
 Screenshots
+
 a. Chapter Page
 ![elearning1](https://cloud.githubusercontent.com/assets/11856540/16218776/dabe399c-374e-11e6-955f-1a9f6a106d70.JPG)
 
@@ -21,5 +22,5 @@ b. Quiz page
 c. Results with View answer option.
 ![elearning3](https://cloud.githubusercontent.com/assets/11856540/16218774/dabdd268-374e-11e6-8e74-cef0cdf07492.JPG)
 
-d. Correct answers
+d. Correct answers page
 ![elearning4](https://cloud.githubusercontent.com/assets/11856540/16218775/dabe0ab2-374e-11e6-98cd-42dbe6cf4638.JPG)
