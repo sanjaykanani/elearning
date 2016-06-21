@@ -11,7 +11,7 @@ Steps to execute the web application:
 4. Open the "elearning" project in Visual Studio 2013 by going to File->Open->Website->Locate your "elearning" project directory.
 5. Build and run the project to navigate to the Home page of this website.
 
-Screenshots
+#Screenshots
 
 a. Chapter Page
 ![elearning1](https://cloud.githubusercontent.com/assets/11856540/16218776/dabe399c-374e-11e6-955f-1a9f6a106d70.JPG)
