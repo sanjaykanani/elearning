@@ -10,3 +10,8 @@ Steps to execute the web application:
 3. Paste the content of "elearning.sql" in the query window and click on "Execute" option. This successfully inserts data to the "elearning" database.
 4. Open the "elearning" project in Visual Studio 2013 by going to File->Open->Website->Locate your "elearning" project directory.
 5. Build and run the project to navigate to the Home page of this website.
+
+![elearning1](https://cloud.githubusercontent.com/assets/11856540/16218776/dabe399c-374e-11e6-955f-1a9f6a106d70.JPG)
+![elearning2](https://cloud.githubusercontent.com/assets/11856540/16218777/dac370d8-374e-11e6-8a7a-723780b8ef40.JPG)
+![elearning3](https://cloud.githubusercontent.com/assets/11856540/16218774/dabdd268-374e-11e6-8e74-cef0cdf07492.JPG)
+![elearning4](https://cloud.githubusercontent.com/assets/11856540/16218775/dabe0ab2-374e-11e6-98cd-42dbe6cf4638.JPG)
